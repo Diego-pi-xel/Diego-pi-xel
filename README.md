@@ -8,7 +8,7 @@
 - :school: I am a `Student` at [4Geeks Academy](http://https://4geeks.com/es/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/diego-ovalle-a722b0318/).
 <br>
